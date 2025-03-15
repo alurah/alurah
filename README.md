@@ -1,4 +1,4 @@
-## Hi there 👋
+I am Alurah, a tech enthusiast with a passion of problem solving, software development and continuous learning
 
 <!--
 **alurah/alurah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
