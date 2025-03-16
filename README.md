@@ -1,7 +1,8 @@
-I am Alurah, a tech enthusiast with a passion of problem solving, software development and continuous learning
+I am Alurah, a tech enthusiast with a passion of problem solving, software development and continuous learning. i do develop and maintain software solutions, learn and apply best practices in system designand collaborate on open-source and research projects,
 ### . Key Enterprice 
 -**Language and tools:** [Python, JavaScript, Linux, Git]
 -**Interests:** [Cloud Computing, Cybersecurity, Web Development]
+
 
 <!--
 **alurah/alurah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
